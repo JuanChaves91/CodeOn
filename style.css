@@ -1,0 +1,32 @@
+div {
+  width: 400px;
+  border: 1px solid black;
+  margin: auto;
+  padding: 40px;
+  background-color: #000000;
+}
+
+span {
+  display: block;
+  text-align: center;
+  font-family: Courier, monospace;
+  font-size: 60px;
+  font-weight: bolder;
+  margin-bottom: -10px;
+  color: #ffffff;
+}
+
+.normal {
+  font-weight: normal;
+}
+
+.and {
+  font-size: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.symbol {
+  margin-bottom: 20px;
+  font-size: 80px;
+}
